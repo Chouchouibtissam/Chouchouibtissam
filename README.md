@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chouchou Ibtissam Fatma</h1>
 <h3 align="center">Computer Science Student, AI enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chouchouibtissam&label=Profile%20views&color=0e75b6&style=flat" alt="chouchouibtissam" /> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Flutter**
