@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chouchou Ibtissam Fatma</h1>
 <h3 align="center">Computer Science Student, AI enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
 
+- 🔭 I'm a 4th-year data Science & Intelligent Systems Student at ESI Algiers, Algeria. 
+
+- 🌱 I'm an **AI**, **deep learning**, **machine learning**, and **AutoML (NAS)** enthusias
+  
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **ki_chouchou@esi.dz**
