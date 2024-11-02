@@ -6,7 +6,7 @@
 
 - 🌱 I'm an **AI**, **deep learning**, **machine learning**, and **AutoML (NAS)** enthusias
   
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Optimization** and **Flutter**
 
 - 📫 How to reach me **ki_chouchou@esi.dz**
 
