@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student, AI enthusiast</h3>
 
 
-- 🔭 I'm a 4th-year data Science & Intelligent Systems Student at ESI Algiers, Algeria. 
+- 🔭 I'm a 5th-year data Science & Intelligent Systems Student at ESI Algiers, Algeria. 
 
 - 🌱 I'm an **AI**, **deep learning**, **machine learning**, and **AutoML (NAS)** enthusias
   
