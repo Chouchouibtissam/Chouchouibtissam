@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chouchou Ibtissam Fatma</h1>
-<h3 align="center">Computer Science Student, AI enthusiast</h3>
+<h3 align="center">AI Engineer & Researcher | Data Science Enthusiast</h3>
 
+- 🔭 I'm a Data Science & Intelligent Systems Engineer graduate from ESI Algiers, Algeria
 
-- 🔭 I'm a 5th-year data Science & Intelligent Systems Student at ESI Algiers, Algeria. 
+- 🎓 Currently pursuing an MSc in AI at Paris Dauphine-PSL University, France
 
-- 🌱 I'm an **AI**, **deep learning**, **machine learning**, and **AutoML (NAS)** enthusias
+- 🌱 I'm an **AI**, **deep learning** and **machine learning** enthusias
   
-- 💬 Ask me about **Optimization** and **Flutter**
+- 💬 Ask me about **Optimization** and **Deep Learning**
 
-- 📫 How to reach me **ki_chouchou@esi.dz**
+- 📫 **Contact**: 
+  - Email: ibtissam.chouchou@dauphine.eu
+  - LinkedIn: [Ibtissam Fatma Chouchou](https://www.linkedin.com/in/ibtissam-fatma-chouchou-freepalestine-249943223/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
